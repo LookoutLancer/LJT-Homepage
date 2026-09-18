@@ -1,7 +1,7 @@
 ---
 title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2025-01-01-on-the-perception-bottleneck-of-vlms-for-chart-understanding
 date: 2025-01-01
 venue: 'arXiv'
