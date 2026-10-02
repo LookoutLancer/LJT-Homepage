@@ -19,7 +19,7 @@ repository               : "LookoutLancer/LJT-Homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           :
   name             : "Junteng Liu"
   pronouns         :
   bio              : "First-year PhD candidate at HKUST NLP Group"
@@ -179,10 +179,12 @@ exclude:
   - LICENSE
   - local
   - log
+  - markdown_generator
   - node_modules
   - package.json*
   - Rakefile
   - README
+  - talkmap
   - tmp
   - vendor
 keep_files:
