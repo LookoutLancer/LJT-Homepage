@@ -38,7 +38,7 @@ I am a first-year Ph.D. candidate in Computer Science at the Hong Kong Universit
 
 ## Publications
 
-*Indicates equal contribution not applicable; <u>underlined</u> indicates first author.*
+*<u>Underlined</u> indicates first author.*
 
 ### 2025
 
